@@ -1,0 +1,20 @@
+.content{
+    background-image: url(images/stars.jpg);
+    position: relative;
+    background-size: cover;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    height: 700px;
+}
+.content p{
+    width: 40%;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+.contactinfo{
+    margin-top: 40px;
+}
+.text{
+    margin-top: 30px;
+}

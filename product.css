@@ -1,0 +1,154 @@
+div header{
+    font-family: sans-serif;
+    color: white;
+    margin-left: 40px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+hr{
+    width: 60%;
+}
+
+.card1{
+    background-color: rgba(255, 255, 255, 0.494);
+    color: white;
+  width: 320px;
+  height: 420px;
+  top: 45%;
+  left: 20%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  box-shadow: 0 0 120px #000000;
+  border-radius: 25px;
+  cursor: pointer;
+  position: absolute;
+}
+.card1 img{
+    position: relative;
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.card1:hover{
+    top: 40%;
+    transition:  .5s;
+}
+.card1:hover img{
+    margin-top: 25px;
+    transition:  .5s;
+}
+.pcontent{
+    text-align: center;
+}
+.pcontent h3{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+/* Card1 ends*/
+
+
+
+/* card2 */
+.card2{
+    background-color: rgba(255, 255, 255, 0.494);
+    color: white;
+  width: 320px;
+  height: 420px;
+  top: 45%;
+  left: 40%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  box-shadow: 0 0 120px #000000;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.card2 img{
+    position: relative;
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.card2:hover{
+    top: 40%;
+    transition:  .5s;
+}
+.card2:hover img{
+    margin-top: 25px;
+    transition:  .5s;
+}
+/* card2 ends */
+
+/* card3 */
+.card3{
+background-color: rgba(255, 255, 255, 0.494);
+color: white;
+width: 320px;
+height: 420px;
+top: 45%;
+left: 60%;
+position: absolute;
+transform: translate(-50%,-50%);
+box-sizing: border-box;
+box-shadow: 0 0 120px #000000;
+border-radius: 25px;
+cursor: pointer;
+}
+.card3 img{
+    position: relative;
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.card3:hover{
+    top: 40%;
+    transition:  .5s;
+}
+.card3:hover img{
+    margin-top: 25px;
+    transition:  .5s;
+}
+/* card3 ends */
+
+/* card4 */
+.card4{
+    background-color: rgba(255, 255, 255, 0.494);
+    color: white;
+    width: 320px;
+    height: 420px;
+    top: 45%;
+    left: 80%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    box-shadow: 0 0 120px #000000;
+    border-radius: 25px;
+    cursor: pointer;
+    }
+    .card4 img{
+        position: relative;
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+        cursor: pointer;
+    }
+    .card4:hover{
+        top: 40%;
+        transition:  .5s;
+    }
+    .card4:hover img{
+        margin-top: 25px;
+        transition:  .5s;
+    }
+    /* card4 ends */
+
+    .others{
+        color: white;
+        margin-top: 35%;
+        text-align: center;
+    }
